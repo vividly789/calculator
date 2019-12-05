@@ -1,4 +1,5 @@
 #To MAKE A CALCULATOR
+#This is how we do!
 
 n1=float(input("enter the first number:"))
 oper=input("Enter the operator:")
